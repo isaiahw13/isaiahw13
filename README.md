@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Isaiah 👋🏾
 
-<!--
-**isaiahw13/isaiahw13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨🏾‍💻 I'm currently learning SQL, REST APIs, JSON APIs & Caching
+- 🌎 I'm currently working on a trip advising application
+- 🤝 I’m looking to connect with fellow CS Students
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+- 🏔️ Hiking
+- 🍿 Watching Movies
+- 🍽️ Eating
+
+## Projects
+- [Tautulli Discord Bot](https://github.com/isaiahw13/tautulli-discord-bot) - A Discord bot for getting live Plex Server stats
+
+## Connect with Me
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- Links to my social media accounts -->
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
+[linkedin-url]: https://linkedin.com/in/isaiah-white-b8315818b

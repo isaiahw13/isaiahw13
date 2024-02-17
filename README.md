@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👨🏾‍💻 I'm currently learning SQL, REST APIs, JSON APIs & Caching
+- 👨🏾‍💻 I'm currently learning MongoDB, REST APIs, JSON APIs, REACT, & Caching
 - 🌎 I'm currently working on a trip advising application
 - 🤝 I’m looking to connect with fellow CS Students
 

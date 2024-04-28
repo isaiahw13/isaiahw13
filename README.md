@@ -12,6 +12,7 @@
 - 🍽️ Eating
 
 ## Projects
+- [Climate Change Website](https://github.com/isaiahw13/Climate-Change-Site) - A website that provides information on climate change and how to reduce your carbon footprint
 - [Tautulli Discord Bot](https://github.com/isaiahw13/tautulli-discord-bot) - A Discord bot for getting live Plex Server stats
 
 ## Connect with Me

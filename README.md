@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 👨🏾‍💻 I'm currently learning MongoDB, REST APIs, JSON APIs, REACT, & Caching
-- 🌎 I'm currently working on a trip advising application
+- 👨🏾‍💻 I'm currently learning PostgreSQL, REST APIs, JSON APIs, REACT, & Caching
+- 🌎 I'm currently working on a price tracking application
 - 🤝 I’m looking to connect with fellow CS Students
 
 ## My Interests

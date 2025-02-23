@@ -2,14 +2,13 @@
 
 ## About Me
 
-- 👨🏾‍💻 I'm currently learning PostgreSQL, REST APIs, JSON APIs, REACT, & Caching
-- 🌎 I'm currently working on a price tracking application
-- 🤝 I’m looking to connect with fellow CS Students
+- 👨🏾‍💻 I'm currently learning Terraform, Ansible, Virtualization, and much more!
+- 🌎 I'm currently working on a one-click homelab setup using IaC (Infrastructure as Code)
 
 ## My Interests
 - 🏔️ Hiking
 - 🍿 Watching Movies
-- 🍽️ Eating
+- 💻 Tinkering
 
 ## Projects
 - [Climate Change Website](https://github.com/isaiahw13/Climate-Change-Site) - A website that provides information on climate change and how to reduce your carbon footprint
